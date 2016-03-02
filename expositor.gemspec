@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Volodya Sveredyuk"]
   s.email       = 'sveredyuk@gmail.com'
   s.files       = ["lib/expositor.rb"]
-  s.homepage    = 'http://rubygems.org/gems/expositor'
+  s.homepage    = 'https://github.com/sveredyuk/expositor'
   s.license     = 'MIT'
 
   # Dev gems
