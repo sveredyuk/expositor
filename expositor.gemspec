@@ -7,7 +7,9 @@ Gem::Specification.new do |s|
   s.authors     = ["Volodya Sveredyuk"]
   s.email       = 'sveredyuk@gmail.com'
   s.files       = ["lib/expositor.rb"]
-  s.homepage    =
-    'http://rubygems.org/gems/expositor'
-  s.license       = 'MIT'
+  s.homepage    = 'http://rubygems.org/gems/expositor'
+  s.license     = 'MIT'
+
+  # Dev gems
+  s.add_development_dependency "rspec"
 end
