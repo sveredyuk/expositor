@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'expositor'
-  s.version     = '0.1.0'
+  s.version     = '0.9.0'
   s.date        = '2016-03-02'
   s.summary     = "Expositor will exposit!"
   s.description = "Exposit all object methods to it class"
@@ -11,5 +11,5 @@ Gem::Specification.new do |s|
   s.license     = 'MIT'
 
   # Dev gems
-  s.add_development_dependency "rspec"
+  s.add_development_dependency 'rspec', '~> 3.4.0'
 end

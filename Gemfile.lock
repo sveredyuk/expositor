@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    expositor (0.1.0)
+    expositor (0.9.0)
 
 GEM
   remote: https://rubygems.org/
@@ -26,7 +26,7 @@ PLATFORMS
 
 DEPENDENCIES
   expositor!
-  rspec
+  rspec (~> 3.4.0)
 
 BUNDLED WITH
    1.11.2
