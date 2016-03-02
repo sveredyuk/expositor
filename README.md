@@ -16,7 +16,6 @@ And in your ruby file:
 require 'expositor'
 ```
 
-
 ## Example
 
 You initiating Policy that allow you explicit some 'checks' to special policy class
